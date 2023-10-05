@@ -14,3 +14,5 @@ pytz==2023.3.post1
 six==1.16.0
 tzdata==2023.3
 zipp==3.17.0
+
+statsmodels~=0.14.0
